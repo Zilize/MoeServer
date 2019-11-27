@@ -22,3 +22,9 @@ Run the code:
 Enter s to start, enter q to quit, enter e to exit. Just like this:
 
 ![](./image/v1.png)
+
+## V2.0 GUI
+
+You can add the files to you own Qt project and build it. Change your config and click the start button.
+
+![](./image/v2.png)
